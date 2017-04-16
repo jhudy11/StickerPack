@@ -1,4 +1,30 @@
 {
+  "stickers" : [
+    {
+      "filename" : "DevLogo.sticker"
+    },
+    {
+      "filename" : "GameAcademy.sticker"
+    },
+    {
+      "filename" : "Swift.sticker"
+    },
+    {
+      "filename" : "Logo.sticker"
+    },
+    {
+      "filename" : "pengiunImage2.sticker"
+    },
+    {
+      "filename" : "penguinImage.sticker"
+    },
+    {
+      "filename" : "penguinImage3.sticker"
+    },
+    {
+      "filename" : "Sticker Sequence.stickersequence"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
